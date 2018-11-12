@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
-    "jquery": "^1.9.1",
+    "jquery": "^3.0.0",
     "react": "^16.6.1",
     "react-bootstrap": "^1.0.0-beta.2",
     "react-dom": "^16.6.1",
@@ -25,5 +25,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "mockserver-client": "^5.4.1",
+    "mockserver-node": "^5.4.1"
+  }
 }
