@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Settings",
+      "url": "/settings"
+    },
+    {
+      "name": "Dropdown",
+      "items": [
+        {
+          "name": "Settings",
+          "url": "/test1"
+        },
+        {
+          "name": "Test",
+          "url": "/test2"
+        }
+      ]
+    }
+  ]
+}

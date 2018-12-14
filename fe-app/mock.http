@@ -1,8 +1,0 @@
-POST http://localhost:3001/api/sendMessage
-Content-Type: application/json
-
-{
-    "from": "darvik80@gmail.com"
-}
-
-###
